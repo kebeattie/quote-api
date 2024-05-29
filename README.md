@@ -1,6 +1,6 @@
 # quote-api
 
-HTML, CSS, Express-JS front and back end that allowd users to retreive quotes and add quotes. This is acheived by making API calls to an Express server.
+HTML, CSS, Express-JS front and back end that allows users to retreive quotes and add quotes. This is acheived by making API calls to an Express server.
 
 ## Technologies
 
